@@ -6,4 +6,4 @@
  2.🙀 [uvod u markdown](docs/01-markdown-primjeri.md)
 
  
-<img src=""tux.png" wdith="30%">
+<img src=""tux.jpg" wdith="30%">
